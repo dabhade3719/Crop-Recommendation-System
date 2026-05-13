@@ -4,13 +4,13 @@
 The Crop Recommendation System is a Machine Learning-based application designed to recommend suitable crops based on soil and environmental conditions. The system helps improve agricultural productivity by providing accurate crop predictions using data analysis and machine learning techniques.
 
 🚀 Features
-🌱 Crop prediction based on soil and weather conditions
-📊 Data preprocessing and feature scaling
-🤖 Machine Learning model for accurate recommendations
-📈 Model evaluation using accuracy and confusion matrix
-⚡ Fast and simple prediction system
-💻 User-friendly Python-based implementation
-🛠️ Technologies Used
+- 🌱 Crop prediction based on soil and weather conditions
+- 📊 Data preprocessing and feature scaling
+- 🤖 Machine Learning model for accurate recommendations
+- 📈 Model evaluation using accuracy and confusion matrix
+- ⚡ Fast and simple prediction system
+- 💻 User-friendly Python-based implementation
+- 🛠️ Technologies Used
 
 Programming Language: Python
 Libraries: Pandas, Scikit-learn, Matplotlib, Seaborn
