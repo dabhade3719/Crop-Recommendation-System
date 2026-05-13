@@ -26,23 +26,23 @@ Crop-Recommendation-System/
 │── README.md
 
 🎯 Objectives
-To recommend suitable crops using Machine Learning
-To improve decision-making in agriculture
-To analyze soil and weather parameters effectively
-To support smart farming techniques
+- To recommend suitable crops using Machine Learning
+- To improve decision-making in agriculture
+- To analyze soil and weather parameters effectively
+- To support smart farming techniques
 
 👨‍💻 Team Members
-Avinash Dabhade
+- Avinash Dabhade
 
 📖 Learning Outcomes
-Machine Learning model development using Python
-Data preprocessing and feature scaling techniques
-Model training and evaluation using Scikit-learn
-Understanding predictive analysis in agriculture
+- Machine Learning model development using Python
+- Data preprocessing and feature scaling techniques
+- Model training and evaluation using Scikit-learn
+- Understanding predictive analysis in agriculture
 
 📌 Future Improvements
-Web-based user interface integration
-Real-time weather API support
-Advanced AI-based crop recommendations
-Mobile application support
-Database integration for storing prediction history
+- Web-based user interface integration
+- Real-time weather API support
+- Advanced AI-based crop recommendations
+- Mobile application support
+- Database integration for storing prediction history
